@@ -1,1 +1,1 @@
-# Proyecto-Integrador-LSI-en-C---Sistema-de-gesti-n-de-un-lavadero-de-autos
+# Proyecto-Integrador-LSI-en-C---Sistema-de-alquiler-de-autos
