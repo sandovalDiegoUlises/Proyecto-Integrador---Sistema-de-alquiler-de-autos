@@ -28,10 +28,11 @@ typedef tString tVectorMarcas[MAX_MARCAS];
 tVectorMarcas marcas = {"Ford", "Renault", "Citroen", "Honda", "Audi", "Fiat", "Chevrolet"};
 
 void crearLista(tLista**);
-void inicializarArchivO(FILE*);
+void inicializarArchivo(FILE*);
 void cargarLista(tLista**, FILE*)
 bool listaVacia(tLista*);
 void agregarAuto(tLista**, FILE*);
 void eliminarAuto(tLista**, FILE*);
 
 #endif
+
