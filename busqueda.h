@@ -6,11 +6,6 @@
 #include <stdbool.h>
 #include <string.h>
 
-typedef struct{
-	
-};
-
-
 //PROTOTIPOS DE LAS FUNCIONES
 void busquedaPorMarca();
 void busquedaPorModelo();
@@ -99,3 +94,4 @@ void busquedaPorColor(){
 	fclose(archivo);
 }
 #endif
+
