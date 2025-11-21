@@ -2,23 +2,7 @@
 #include <string.h>
 #include<stdlib.h>
 #include <stdbool.h>
-#define MAX 20
-
-
-typedef char tString[MAX];
-
-
-typedef struct{
-    tString marca;
-	tString modelo;
-	tString patente;
-	bool alquilado;
-    int precioPorDia ;
-	int PrecioPorSemana;
-	int precioPorMes;
-	
-
-}tDatosAutos;
+#include "definiciones.h"
 
 FILE* archivo ;
 tDatosAutos dato,datoAnte;
@@ -155,4 +139,5 @@ void finProceso(){
   	
   	
   	
+
 
