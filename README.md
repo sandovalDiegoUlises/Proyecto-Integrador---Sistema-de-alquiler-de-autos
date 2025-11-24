@@ -37,7 +37,7 @@ El sistema persiste los datos mediante **archivos binarios**, aplicando estructu
 ---
 
 # 🚀 Ejecución
-1. Asegurarse de que todos los archivos del proyecto estén en la misma carpeta.  
+1. Asegurarse de descargar todos los archivos del programa y que estén en la misma carpeta.  
 2. Abrir **`menuAlquiler.c`** en su IDE favorito (recomendamos Dev C++ o  Code::blocks).  
 3. Compilar ese archivo y ejecutar el programa.
 
